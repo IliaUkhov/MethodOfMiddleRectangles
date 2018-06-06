@@ -1,0 +1,7 @@
+QMainWindow {
+    background-image: url(JustPushPlay.jpg);
+}
+
+QLabel, XLabel {
+    font-size: 15pt;
+}
